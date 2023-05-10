@@ -16,4 +16,4 @@ Our initial goal is to build a pilot of the website focusing on introductory voc
 * Isaac Pool Chab, Tradiciones Yucatecas y Centro Institucional de Lenguas, Universidad Autónoma de Yucatán
 * Aarnes Gudmestad, Virginia Tech.
 
-This pilot project is funded by the [Virginia Tech Institute for Society, Culture and Environment (ISCE)](Institute for Society, Culture and Environment (ISCE)). 
+This pilot project is funded by the [Virginia Tech Institute for Society, Culture and Environment (ISCE)](https://www.isce.vt.edu/). 
