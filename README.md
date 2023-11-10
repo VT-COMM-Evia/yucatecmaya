@@ -13,7 +13,8 @@ Our initial goal is to build a pilot of the website focusing on introductory voc
 ## Team members
 
 * Carlos Evia, Virginia Tech
-* Isaac Pool Chab, Tradiciones Yucatecas y Centro Institucional de Lenguas, Universidad Autónoma de Yucatán
-* Aarnes Gudmestad, Virginia Tech.
+* César Can Canul, Centro Institucional de Lenguas, Universidad Autónoma de Yucatán
+* Aarnes Gudmestad, Virginia Tech
+* Isaac Pool Chab, Tradiciones Yucatecas y Centro Institucional de Lenguas, Universidad Autónoma de Yucatán.
 
 This pilot project is funded by the [Virginia Tech Institute for Society, Culture and Environment (ISCE)](https://www.isce.vt.edu/). 
